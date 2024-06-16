@@ -1,0 +1,11 @@
+[package]
+name = "tui-calc"
+version = "0.1.0"
+description = "A Simple TUI Calculator"
+authors = ["Paul Sobolik <psobolik@zoho.com>"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.27.0"
+ratatui = "0.26.0"
